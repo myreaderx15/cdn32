@@ -1,0 +1,29 @@
+<svg viewBox="0 0 260 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="55" y="13" width="150" height="154" rx="4" fill="var(--color-bg)" stroke="var(--color-contrast-low)" stroke-width="2"/>
+<rect x="56" y="44" width="148" height="2" fill="var(--color-contrast-low)"/>
+<rect x="56" y="76" width="148" height="30" fill="var(--color-contrast-lower)"/>
+<circle cx="185" cy="61" r="9" fill="var(--color-contrast-low)"/>
+<circle cx="185" cy="91" r="9" fill="var(--color-contrast-low)"/>
+<circle cx="185" cy="121" r="9" fill="var(--color-contrast-low)"/>
+<circle cx="185" cy="151" r="9" fill="var(--color-contrast-low)"/>
+<path d="M181 57L189 65" stroke="var(--color-contrast-high)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M189 57L181 65" stroke="var(--color-contrast-high)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M181 87L189 95" stroke="var(--color-contrast-high)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M189 87L181 95" stroke="var(--color-contrast-high)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M181 117L189 125" stroke="var(--color-contrast-high)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M189 117L181 125" stroke="var(--color-contrast-high)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M181 147L189 155" stroke="var(--color-contrast-high)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M189 147L181 155" stroke="var(--color-contrast-high)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="82" y="56" width="70" height="10" fill="var(--color-contrast-high)"/>
+<rect x="69" y="24" width="70" height="10" fill="var(--color-contrast-high)"/>
+<rect x="82" y="86" width="44" height="10" fill="var(--color-contrast-high)"/>
+<rect x="82" y="116" width="70" height="10" fill="var(--color-contrast-high)"/>
+<rect x="82" y="146" width="44" height="10" fill="var(--color-contrast-high)"/>
+<circle cx="70" cy="61" r="4" fill="var(--color-primary)"/>
+<circle cx="70" cy="91" r="4" fill="var(--color-primary)"/>
+<circle cx="70" cy="121" r="4" fill="var(--color-primary)"/>
+<circle cx="70" cy="151" r="4" fill="var(--color-accent)"/>
+<rect x="56" y="19" width="3" height="20" fill="var(--color-primary)"/>
+<path d="M207.8 125L198 97L226 106.8L213.4 112.4L207.8 125Z" fill="var(--color-contrast-high)"/>
+<line x1="210.121" y1="108.879" x2="225.121" y2="123.879" stroke="var(--color-contrast-high)" stroke-width="6"/>
+</svg>
